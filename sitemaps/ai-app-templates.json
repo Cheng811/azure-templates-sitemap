@@ -1,0 +1,51 @@
+[
+  {
+    "title": "RAG chat test",
+    "description": "Creates a testssssssss.",
+    "architectureDiagram": "./templates/images/azure-search-openai-demo-arch.png",
+    "authorUrl": [
+      "https://github.com/Azure-Samples"
+    ],
+    "author": [
+      "Azure Content Team"
+    ],
+    "email": [
+      "pamelafox@microsoft.com",
+      "anthonyshaw@microsoft.com"
+    ],
+    "source": "https://github.com/Azure-Samples/azure-search-openai-demo",
+    "language": [
+      "python",
+      "typescript"
+    ],
+    "models": [
+      "gpt35turbo"
+    ],
+    "app_type": [
+      "search"
+    ],
+    "template_type": "full_sample",
+    "azure_service": [
+      "appservice",
+      "openai",
+      "aisearch",
+      "blobstorage",
+      "monitor",
+      "aca"
+    ],
+    "prerequisites": [
+      "azd",
+      "nodejs18+",
+      "git",
+      "pwsh7+",
+      "python3.9-3.11"
+    ],
+    "tags": [
+      "featured",
+      "azureopenai"
+    ],
+    "screenshot": "/templates/images/azure-search-openai-demo-image.png",
+    "video": "https://www.youtube.com/embed/i1Lpig533cs?si=0I-HQrxHevydb41x",
+    "status_valid": true
+  }
+]

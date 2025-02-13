@@ -1,7 +1,11 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <sitemap>
-    <loc>https://raw.githubusercontent.com/partychen/azure-sdk-sitemap/refs/heads/main/sitemaps/azure-sdk-for-python.xml</loc>
+    <loc>https://raw.githubusercontent.com/Azure/awesome-azd/refs/heads/main/website/static/templates.json</loc>
+    <lastmod>2025-02-11</lastmod>
+</sitemap>
+<sitemap>
+    <loc>https://raw.githubusercontent.com/Cheng811/azure-templates-sitemap/refs/heads/main/sitemaps/ai-app-templates.json</loc>
     <lastmod>2025-02-11</lastmod>
 </sitemap>
 </sitemapindex>
